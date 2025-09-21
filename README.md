@@ -59,7 +59,3 @@ python main.py
 ```
 
 ---
-
-## Notes
-
-- 
