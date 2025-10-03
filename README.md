@@ -1,4 +1,4 @@
-# Leroy Merlin Scraper
+# How to build a bulk email validator
 
 This project is a Bulk Email Verifier powered by the Piloterr API.
 It allows you to **check whether email addresses exist** and are valid.
